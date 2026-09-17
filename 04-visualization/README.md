@@ -50,7 +50,7 @@ finding. In three of these four charts, the real insight is that nothing
 dominates — and the title says that plainly rather than manufacturing a
 more exciting claim the data doesn't support.
 
-1. **"Revenue Is Evenly Split Across All 7 Products — No Single Leader"**
+1. **"Revenue Is Evenly Split Across All 7 Products"**
    (bar chart). Chair (NGN 195,620) and Printer (NGN 195,613) are
    effectively tied for first, with the full range spanning only NGN
    151,722–195,620 — a flat spread, not a hero SKU.
@@ -59,11 +59,11 @@ more exciting claim the data doesn't support.
    68,069 (Jun 2024) month to month, but shows no consistent upward or
    downward direction across the full 30-month window — variance, not
    trend, is the story.
-3. **"Payment Methods Are Nearly Evenly Used — Credit Card Leads Narrowly at 20.86%"**
+3. **"Payment Methods Are Balanced Uniformly Around 20% Each"**
    (bar chart). All five channels sit within a 2.5-point band
    (18.37%–20.86%) of total revenue share — customers aren't gravitating
    toward one payment method over another.
-4. **"Order Value Scales Moderately With Quantity (r = 0.62) — Price Per Unit Matters More"**
+4. **"Order Value Scales Moderately With Quantity (r = 0.62)"**
    (scatter plot). The correlation is real but not tight: `UnitPrice`
    actually correlates more strongly with `TotalPrice` (r = 0.72) than
    `Quantity` does, meaning *what* customers buy drives order value more
